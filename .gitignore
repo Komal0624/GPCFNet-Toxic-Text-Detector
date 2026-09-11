@@ -1,0 +1,22 @@
+# Data
+*.csv
+train.csv
+test.csv
+
+# Model checkpoints
+*.pth
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Env
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
